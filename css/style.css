@@ -1158,7 +1158,7 @@ p {
 }
 
 .about-inner .about-list li .list-item-title {
-  color: #000;
+  color: rgb(255, 255, 255);
   font-weight: 700;
 }
 
@@ -1394,7 +1394,7 @@ background: #000;
 /* ---------------------------------------------------------------- */
 .counters-item {
   padding: 30px;
-  background: #fff;
+  background: rgb(0, 0, 0);
   margin-bottom: 30px;
   text-align: center;
   border-radius: 10px;
@@ -1405,6 +1405,8 @@ background: #000;
 }
 
 .counters-item:hover {
+  
+  
   -webkit-transform: translateY(-10px);
           transform: translateY(-10px);
   -webkit-box-shadow: 0 23px 49px 0 rgba(0, 0, 0, 0.1);
@@ -1505,7 +1507,7 @@ background: #000;
 
 .portfolio-filter a {
   margin-right: 15px;
-  color: #000;
+  color: rgb(255, 255, 255);
   text-align: center;
   border-radius: 5px;
   font-weight: 500;
